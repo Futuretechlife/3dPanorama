@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.tour{
+    background: #074357;
+    height: 100vh;
+    margin: 0;
+}
+
+h2{
+    margin: 0;
+    color: white;
+}
+.tour__head{
+    padding-top: 10vh;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.image-container{
+    height: 26.190rem;
+
+    position: relative;
+    width: 78%;
+    display: block;
+    margin: 0 auto;
+    margin-left: 12%;
+    overflow: hidden;
+    
+  border: 2px solid #ebb47a;
+  border-radius: 10px;
+}
+
+canvas{
+    width: 100%;
+}
